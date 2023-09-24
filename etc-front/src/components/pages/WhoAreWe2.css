@@ -1,0 +1,23 @@
+.lets-talk-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   
+   
+  }
+  
+  .lets-talk {
+    margin-top: -180px;
+    background-image: url('../../images/WHOAREWE.jpg');
+    background-position: bottom;
+    background-size:1600px; /* Adjust the background size as needed */
+    background-repeat: no-repeat;
+  
+  }
+  .Who{
+    font-size: 42px;
+    padding-left: 36px;
+    color: #fff;
+
+  }
+  

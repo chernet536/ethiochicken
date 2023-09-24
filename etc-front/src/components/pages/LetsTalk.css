@@ -1,0 +1,20 @@
+
+.lets-talk-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+.lets-talk {
+  padding-top: 760px;
+  overflow: hidden;
+  margin-top: -220px;
+  margin-bottom: -10px;
+  background-image: url('../../images/OURPEOPLE.JPG');
+  background-position: bottom;
+  background-size: 1800px 400px; /* Adjust the background size as needed */
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
