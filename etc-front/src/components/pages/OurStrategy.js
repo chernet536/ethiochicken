@@ -11,7 +11,7 @@ function OurStrategy() {
    <div style={{marginTop:'-85px'}}></div>
     <Strategy />
     <StrategyText />
-    <LetsTalk />
+    
     <Footer2 />
    </>
   )
