@@ -17,7 +17,7 @@ function Strategy() {
           height: '1px'
         }}
       />
-      <p style={{color:'#fff', marginTop:'80px',fontSize:'16px', paddingLeft:'50px'}} className='pro'>Leave us a little info, and we'll be in touch</p>
+      <p style={{color:'#fff', marginTop:'80px',fontSize:'16px', paddingLeft:'50px'}} className='pro'></p>
     </div>
     </div>
     </>
