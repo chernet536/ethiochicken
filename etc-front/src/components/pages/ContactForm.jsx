@@ -24,8 +24,8 @@ function ContactForm() {
 
       <div style={infoContainerStyle}>
         <h3>Get in Touch</h3>
-        <p>Address:  Ethio China St, Addis Ababa 1000</p>
-        <p>Phone:  094 416 8359</p>
+        <p>Address:  Kadco Group Building, 6th floor</p>
+        <p>Phone:  +251 116672229</p>
         <p>Email: info@ethiochicken.com.com</p>
         <p>Website: www.ethiochicken.com</p>
       </div>
