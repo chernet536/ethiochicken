@@ -47,7 +47,7 @@ function Footer2() {
         <h2>Contact-US</h2>
         <p>Kadco Group Building, 6th floor</p>
         <p>info@ethiochicken.com</p>
-        <p>094 416 8359</p>
+        <p>+251 116672229</p>
       </div>
     </div>
     <div className="copyright">
