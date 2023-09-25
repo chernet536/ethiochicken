@@ -14,15 +14,18 @@ function WhyChooseUs() {
     <div className='Choose-Container'>
        <div className='one'>
             <img className='distribution'src={a1} alt='no-image' />
-            <p>We have built a distrbution network to reach every Ethiopian family</p>
+            <h3>Full Package Supply</h3>
+            <p>We provide a comprehensive solution for our customers. It includes everything a chicken grower needs to start their poultry business operation</p>
         </div> 
         <div className='two'>
             <img className='distribution2'  src={a2} alt='no-image' />
-            <p>We provide various on-site training to our customers</p>      
+            <h3>Quality</h3>           
+            <p>We place a strong emphasis on quality. We strive to provide customers with the highest standard of poultry products and services.</p>      
         </div> 
         <div className='three'>
           <img className='distribution3' src={a7} alt='no-image' />
-            <p>We are a GLOBALG.A.P. certified producer</p>           
+          <h3>Technical Assistance</h3>
+            <p>We provide various on-site technical assistance through our veterinary-trained professionals to our customers.</p>           
         </div> 
     </div>
    
