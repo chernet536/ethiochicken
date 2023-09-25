@@ -10,7 +10,7 @@ function AboutText() {
     <div style={{marginTop:'200px'}}></div>
     <div className='amount-images'>
       <div className='img-container'>
-         <h1>Our History</h1>
+         <h1>Our Story</h1>
          <p style={{justifyContent:'true', textAlign:'justify',fontWeight:'lighter',paddingLeft:'30px', paddingRight:'30px'}}>
              
          In the heart of Ethiopia, a transformative journey began in 2010 when EthioChicken sowed the seeds of change with its first farm in the Northern part of Ethiopia, in Mekelle Tigray region. Little did they know that this was the beginning of a poultry revolution that would touch the lives of millions. 
