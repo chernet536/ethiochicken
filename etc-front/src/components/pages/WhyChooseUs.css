@@ -11,6 +11,7 @@ p{
 
 }
 .Why-Choose h3{
+    text-align: center;
     color: #8a181b;
 }
 .Choose-Container{
@@ -35,27 +36,30 @@ p{
 .distribution{
     height: 100px;
     width: 100px;
-    margin-left: 75px;
+    margin-left: 110px;
  }
  .distribution2{
     height: 100px;
     width: 100px;
-    margin-left: 75px;
+    margin-left: 110px;
  }
  .distribution3{
     height: 100px;
     width: 100px;
-    margin-left: 75px;
+    margin-left: 95px;
  }
 @media only screen and (max-width: 820px) {
     .Why-Choose{
   
       height: 1300px;
     }
-    .Why-Choose h1{
-        margin-left: -170px;
+    .why-choose-us-h1{
+        margin-left: -220px;
         font-size: 25px;
     }
+     .full-package{
+        margin-left: -60px;
+     }
     .Choose-Container{
         padding-left: 10px;
         padding-right:10px ;
